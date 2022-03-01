@@ -1,2 +1,2 @@
 # Animation
-https://zharkynai13.github.io/Zhaku.animation/
+https://zharkynai13.github.io/Animation/
